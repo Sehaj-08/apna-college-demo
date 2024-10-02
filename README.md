@@ -1,2 +1,2 @@
 # apna-college-demo
-THis is my third repositories
+This is my third repositories
